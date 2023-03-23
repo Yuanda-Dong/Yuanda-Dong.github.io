@@ -21,7 +21,7 @@ googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "olOwOlo"
+  name = "Yuanda"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -59,7 +59,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   gitRepo = ""
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Even"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "🐸"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme","even"]
   description = "Hugo theme even example site."
 
@@ -182,21 +182,22 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:your@email.com"
-    b-stack-overflow = "http://localhost:1313"
-    c-twitter = "http://localhost:1313"
-    d-facebook = "http://localhost:1313"
-    e-linkedin = "http://localhost:1313"
-    f-google = "http://localhost:1313"
-    g-github = "http://localhost:1313"
-    h-weibo = "http://localhost:1313"
-    i-zhihu = "http://localhost:1313"
-    j-douban = "http://localhost:1313"
-    k-pocket = "http://localhost:1313"
-    l-tumblr = "http://localhost:1313"
-    m-instagram = "http://localhost:1313"
-    n-gitlab = "http://localhost:1313"
-    o-bilibili = "http://localhost:1313"
+    a-email = "mailto:dongyuanda@outlook.com"
+    # b-stack-overflow = "http://localhost:1313"
+    # c-twitter = "http://localhost:1313"
+    # d-facebook = "http://localhost:1313"
+    # e-linkedin = "https://github.com/Yuanda-Dong"
+    # f-google = "http://localhost:1313"
+    g-github = "https://github.com/Yuanda-Dong"
+    # h-weibo = "http://localhost:1313"
+    # i-zhihu = "http://localhost:1313"
+    # j-douban = "http://localhost:1313"
+    # k-pocket = "http://localhost:1313"
+    # l-tumblr = "http://localhost:1313"
+    # m-instagram = "http://localhost:1313"
+    # n-gitlab = "http://localhost:1313"
+    o-bilibili = "https://space.bilibili.com/4754940"
+
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
