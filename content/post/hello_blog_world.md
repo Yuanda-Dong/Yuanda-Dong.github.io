@@ -1,7 +1,7 @@
 +++
 title = "Hello Blog World"
 date = 2023-03-23T04:17:00+11:00
-lastmod = 2023-03-23T23:15:27+11:00
+lastmod = 2023-03-24T00:43:33+11:00
 tags = ["Blogging"]
 categories = ["test"]
 draft = false
@@ -37,4 +37,14 @@ print(y+1)
 
 ```text
 3
+```
+
+```C++
+std::cout<<"Hello World!\n";
+printf("%d\n", 2+2);
+```
+
+```text
+Hello World!
+4
 ```
