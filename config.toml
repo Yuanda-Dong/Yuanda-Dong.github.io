@@ -44,15 +44,15 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
-  name = "Resume"
-  weight = 40
-  identifier = "resume"
-  url = "/resume-as-code/"
-[[menu.main]]
   name = "Categories"
-  weight = 45
+  weight = 40
   identifier = "categories"
   url = "/categories/"
+[[menu.main]]
+  name = "Resume"
+  weight = 45
+  identifier = "resume"
+  url = "/resume-as-code/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
