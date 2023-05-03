@@ -44,8 +44,13 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
-  name = "Categories"
+  name = "Resume"
   weight = 40
+  identifier = "resume"
+  url = "/resume-as-code/"
+[[menu.main]]
+  name = "Categories"
+  weight = 45
   identifier = "categories"
   url = "/categories/"
 
